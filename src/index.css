@@ -1,0 +1,27 @@
+.background {
+    background-size: 90%;
+    background-position: -350% 30%;
+    /* background-position: right; */
+
+}
+body {
+    background: rgb(250, 248, 248);
+background: radial-gradient(circle, rgb(241, 239, 239) 100%, rgb(241, 243, 245) 100%, rgb(246, 246, 247) 100%);
+}
+
+
+
+.done{
+    color: rgb(25, 204, 55);
+}
+.fail{
+    color:rgb(235, 14, 14);
+}
+.day-headings{
+    color: #049cbe;
+}
+.text-light {
+    font-family: monospace, 'Montserrat', sans-serif;
+    font-size: larger;
+    
+  }
